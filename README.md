@@ -13,11 +13,11 @@ content created for: **M.O.P. Vaishnav College for Women**
 
 ### Introduction
 
-Hello 👋. I am Suvel , I am a Sr. Software Engineer at a Hyderabad based SAS company.
+Hello 👋. I am Suvel, a Senior Software Engineer at a Hyderabad-based SAS company.
 
-I have been hooked to programming from my 11th grade, always felt programming to be entertainment and creative process. I have created small games and management system software for leisure. After 2 year of my professional career I started look my skills as tool that not just solves companies problem but my own as well.
+I have been hooked on programming since my 11th grade and have always found it to be an entertaining and creative process. I have created small games and management system software for leisure. After two years of my professional career, I started looking at my skills not just as tools to solve company problems but also my own.
 
-In this article I am going introduce you to how you can think like a programmer and what sought of problem you can solve with the same.
+In this article, I am going to introduce you to how you can think like a programmer and what sort of problems you can solve with those skills.
  
     “If you aren’t having fun, you are doing it wrong. If you feel like getting up in the morning to work on your business is a chore, then it's time to try something else.” ― Richard Branson
 
@@ -25,23 +25,23 @@ In this article I am going introduce you to how you can think like a programmer 
 
 #### Story 1, Smart LED
 
-I work from my home. I get up at 7am and turn on my light, after 10 am when the sun light peaks into my room I turn off the light to save electricity. Afternoon at 1 pm I have lunch, usually a heavy one. I turn-on the light again so that I don't sleep while I am working. I turn it again off at 12 while going to bed.
+I work from home. I get up at 7 am and turn on my light. Around 10 am, when sunlight fills my room, I turn off the light to save electricity. At 1 pm, after a heavy lunch, I turn on the light again to stay awake while working. Finally, I turn it off at 12 midnight before going to bed.
 
-I noticed that there is pattern of my doing the same task of turning on and off the light , so I bought a Smart bulb(Philips smart-wifi LED) and created a routine to by mention the time rage and how I want it behave on the specific time.
+I noticed a pattern in these tasks of turning the light on and off, so I bought a Smart bulb (Philips Smart WiFi LED) and created a routine to specify the time range and behavior of the light at specific times.
 
-I was using a App that available in the market , but Philips also have document which you go through to control the LED through a program.
+Initially, I used an app available in the market, but Philips also provides documentation that guides you on controlling the LED through a program.
 
 #### Story 2, Legacy Grocery Store
 
-Imagine you are son/daughter of a old couple who manages a medium sized grocery shop in a middle of a town. In recent time the customer retentions of the shop has been decreasing significantly. After investigating you came to know your parent due to old age where  unable to removed expired packages from stock and were giving out the same to customer.
+Imagine you are the son or daughter of an elderly couple who manage a medium-sized grocery shop in the middle of town. Recently, the shop's customer retention has been declining significantly. Upon investigation, you discover that your parents, due to their old age, have been unable to remove expired products from the stock and have inadvertently sold them to customers.
 
-So you decide to help in this scenario by developing a application , where they can enter the product name and expiration date while stocking up and on a daily bases this application will notify you and parent to remove products that are expired for that day. Though this your customer retention rate be back to normal.
+To address this issue, you decide to develop an application. This app allows them to enter the product name and expiration date during stocking, and on a daily basis, it notifies both you and your parents to remove products that have expired that day. Through this initiative, you aim to restore the shop's customer retention rate.
 
 #### Story 3, Go green
 
-Your fried want to have small garden in her home, so she start with a small plant and trying to take care of it in order to learn about maintain plants. But she often over or under water the plant, causing the plant to dry or die due to same.
+Your friend wants to have a small garden at home and starts with a small plant to learn about plant care. However, she often overwaters or underwater the plant, leading to its drying or death.
 
-Here you volunteer to help her. You do some research and find out about moisture sensor. This moisture sensor will give out number representing the moisture content in the soli it is kept in, and this can connect with a microprocessor like Adrino to control a LED to turn RED when the optimal moisture number is reached. So after deploying this system your friend will not wanter the plant if the LED is RED, this will help her save plants and get I idea on different vegetation and it water pulling capacities.
+To assist her, you volunteer to help. After researching, you discover a moisture sensor that provides a numerical value representing the soil moisture. This sensor can be connected to a microprocessor like Arduino to control an LED, turning it red when the soil moisture reaches an optimal level. By implementing this system, your friend will know not to water the plant when the LED is red, thus preventing plant damage and gaining insight into the watering needs of different plants.
 
 
 **All this above mention scenarios can be entry level projects by it self.**
@@ -106,3 +106,7 @@ People and videos that inspired me:
 ### Freelancing tools to get money
 
 1. [Upwork](https://www.upwork.com/) 
+
+### Book Suggestion
+
+1. [Hellow World!, by Hannah Fry](https://www.amazon.com/Hello-World-How-Human-Machine/dp/0857525247)
