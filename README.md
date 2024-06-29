@@ -93,10 +93,11 @@ People and videos that inspired me:
     2. [Notion](https://www.notion.com)
 
 1. Programming
-
+    1. [Leet Code](https://leetcode.com/)
     1. [Code Sandbox](https://codesandbox.io/)
-    2. [Codepen](https://codepen.io/)
-    3. [JSBin](https://jsbin.com/)
+    1. [Codepen](https://codepen.io/)
+    1. [JSBin](https://jsbin.com/)
+    1. [Jupiter Lab](https://jupyter.org/try-jupyter/lab/)
 
 
 ### Mobile APPs to practice programming
