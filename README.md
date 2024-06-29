@@ -103,6 +103,10 @@ People and videos that inspired me:
 
 1. [Dcoder, Compiler IDE](https://play.google.com/store/apps/details?id=com.paprbit.dcoder&hl=en&gl=US)
 
+ <br/>
+
+Check out this [blog](https://dev.to/c_yatteau/code-on-your-phone-with-these-4-mobile-apps-55cm) form more mobile based programming APP.
+
 ### Freelancing tools to get money
 
 1. [Upwork](https://www.upwork.com/) 
