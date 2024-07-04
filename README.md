@@ -67,6 +67,8 @@ People and videos that inspired me:
 
     Three.js is a cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL.
 
+    (EXAMPLE)[https://codesandbox.io/p/sandbox/three-js-table-ysjkqx?file=%2Fsrc%2Findex.js]
+
 1. [Sonic PI](https://sonic-pi.net/)
 
     Sonic Pi works on simple loops of code. You enter a few commands that indicate beats, melodies, and samples to play. These commands are processed through a synthesizer backend called SuperCollider. The essence of it is loop and repeat, but if you change the code during the performance, the music changes too. It’s a simple and powerful way to get anyone up and running with electronic music or basic programming concepts.
@@ -93,7 +95,7 @@ People and videos that inspired me:
     2. [Notion](https://www.notion.com)
 
 1. Programming
-    1. [Leet Code](https://leetcode.com/)
+    1. [Competitive Programming, Leet Code](https://leetcode.com/)
     1. [Code Sandbox](https://codesandbox.io/)
     1. [Codepen](https://codepen.io/)
     1. [JSBin](https://jsbin.com/)
