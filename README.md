@@ -121,4 +121,4 @@ Check out this [blog](https://dev.to/c_yatteau/code-on-your-phone-with-these-4-m
 
 #### Contact
 1. [Linked-In](https://www.linkedin.com/in/suvel-rathneswar-%E2%A0%80-baab611b7/)
-2. [Github] (https://github.com/suvel)
+2. [Github](https://github.com/suvel)
