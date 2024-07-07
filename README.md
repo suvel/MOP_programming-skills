@@ -112,7 +112,8 @@ Check out this [blog](https://dev.to/c_yatteau/code-on-your-phone-with-these-4-m
 
 ### Freelancing tools to get money
 
-1. [Upwork](https://www.upwork.com/) 
+1. [Upwork](https://www.upwork.com/)
+2. [Gray Nodes](https://www.greynodes.com/)
 
 ### Book Suggestion
 
