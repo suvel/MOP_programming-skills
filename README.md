@@ -118,3 +118,7 @@ Check out this [blog](https://dev.to/c_yatteau/code-on-your-phone-with-these-4-m
 ### Book Suggestion
 
 1. [Hellow World!, by Hannah Fry](https://www.amazon.com/Hello-World-How-Human-Machine/dp/0857525247)
+
+#### Contact
+1. [Linked-In](https://www.linkedin.com/in/suvel-rathneswar-%E2%A0%80-baab611b7/)
+2. [Github] (https://github.com/suvel)
